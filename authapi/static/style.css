@@ -1,0 +1,12 @@
+.register-form.hide{
+    display: none;
+}
+.login-form.hide{
+    display: none;
+}
+.change-password-form.hide{
+    display: none;
+}
+.resetpassword-form.hide{
+    display: none;
+}
